@@ -11,15 +11,16 @@
 
 
 # Approach
- - Data Cleaning & Manipulation Checklist
- - Dropping Rows - where loan_status = "Current"
- - Dropping Columns based on EDA and Domain Knowledge
- - Convert the data types
- - Identify columns with blank values which need to be imputed
- - Analysis of the dataset post cleanup
+ - Importing and initializing required libraries
+ - Identifying columns with null values and imputing them.
+ - Imputing data having single values.
+ - Excluding irrelevant data according to the required objective
+ - Excluding columns based on assumptions with explanations
+ - Data type conversion for vivid analysis
+ - Envisaging of the dataset post cleanup
  - Outlier Treatment
- - Analysis - Univariate, Bivariate and Derived Metrics Analysis
- - Conclusions Inferences and Recommendations
+ - Analysis - Univariate, Bivariate and Multivariate
+ - Inferences and Recommendations
 
 
 # Tech-Stack
